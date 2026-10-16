@@ -1,0 +1,3 @@
+# Public YouTube Data API research (fetch_video, fetch_channel_data,
+# search_competitor_videos). Includes httplib2 and google-auth.
+google-api-python-client>=2.100.0
