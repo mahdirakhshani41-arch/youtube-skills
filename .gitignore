@@ -23,8 +23,12 @@ env/
 .DS_Store
 Thumbs.db
 
-# Claude Code
-.claude/
+# Claude Code (local state ignored; project skill, hook and settings tracked)
+.claude/*
+!.claude/CLAUDE.md
+!.claude/settings.json
+!.claude/hooks/
+!.claude/skills/
 .tmp/
 
 # YouTube API credentials (never commit)
