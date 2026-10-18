@@ -116,6 +116,8 @@ Do not reload a reference file already in context for this session.
 | `references/monetization-guide.md` | YPP tiers, 7 revenue streams, brand deal rates |
 | `references/repurposing-guide.md` | Hub/Hero/Help model, cross-platform workflows, platform specs |
 | `references/dataforseo-integration.md` | DataForSEO MCP tool reference, YouTube SERP, keyword research, trends |
+| `references/true-crime-standards.md` | True-crime IDs, claim/status/legal-status vocabulary, registers, and safeguards for same-name people, narrator limits and stale legal status |
+| `references/verification-skill-rules.md` | Detective Noir rules and run order for the installed `source-verification`, `doublecheck` and `humanizer` skills |
 
 ## DataForSEO MCP Integration (Optional)
 

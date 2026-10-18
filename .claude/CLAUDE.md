@@ -32,3 +32,14 @@ The SessionStart hook (`.claude/hooks/session-start.sh`) installs
 - **Original ideas**: `/youtube ideate`, ideally after a competitor run or video analysis.
 
 Metadata shows how a video performed, not why. Present patterns as observations.
+
+## Detective Noir research, fact-checking and editing
+
+Before using `source-verification`, `doublecheck` or `humanizer` for channel work, read
+`.claude/skills/youtube/references/true-crime-standards.md` and
+`.claude/skills/youtube/references/verification-skill-rules.md`. Those rules take
+precedence over the skills' own instructions; never edit the skills' files.
+Non-negotiable: `doublecheck` checks our source register first and never treats a court
+outcome as "both sides"; `humanizer` only suggests and never silently changes a fact; the
+fictional narrator never claims to have been present, interviewed anyone, or held
+non-public evidence.
